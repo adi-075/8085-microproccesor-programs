@@ -58,6 +58,14 @@ Note:
   Make sure you have Installed git on Windows/Linux prior to cloning the repo. Mac comes with Git built-in.
   ```
 
+###Install as a .zip file
+
+Click the link below to download all the files as a .zip file
+
+  ```sh
+  https://github.com/adi-075/8085-microproccesor-programs/archive/refs/heads/main.zip
+  ```
+  
 <!-- LICENSE -->
 ## License
 
