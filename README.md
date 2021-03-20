@@ -12,6 +12,7 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#installation-as-a-zip-file">Installation as a .zip file</a></li>
       </ul>
       <a href="#License">License</a>
       <a href="#Contact">License</a>
