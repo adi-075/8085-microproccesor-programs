@@ -12,7 +12,6 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
-        <li><a href="#installation-as-a-zip-file">Installation as a .zip file</a></li>
       </ul>
       <a href="#License">License</a>
       <a href="#Contact">License</a>
@@ -37,7 +36,7 @@ To setup a working environment to execute the files, follow the steps given belo
 
 A Simulator for 8085 like GNUSim8085 to execute 8085 Files. 
 
-If you don't have yhe simulator, use the link given below to execute your Program.
+If you don't have the simulator, use the link given below to execute your Program.
 
 * GNUSim8085
   ```sh
@@ -59,7 +58,7 @@ Note:
   Make sure you have Installed git on Windows/Linux prior to cloning the repo. Mac comes with Git built-in.
   ```
 
-###Install as a .zip file
+To install as a .zip file
 
 Click the link below to download all the files as a .zip file
 
