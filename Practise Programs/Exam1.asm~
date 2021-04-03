@@ -1,0 +1,14 @@
+
+;<WAP in ALP to transfer block of memory starting from 1050H to 1059H to a new location starting from 1070H to 1069H>
+
+;code
+LXI H, 1050H
+LXI D, 1070H
+MVI C, 0AH
+MOV A, M
+STAX D
+INX H
+INX D
+DCR C
+JNZ
+HLT

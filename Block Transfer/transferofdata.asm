@@ -1,0 +1,12 @@
+; Transfer Block of data
+
+LXI H, 2000H
+LXI B, 2010H
+MVI C, 05H
+UP: MOV A, M
+STAX B
+INX H
+INX B
+DCR C
+JNZ UP
+HLT

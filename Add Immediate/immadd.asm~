@@ -1,0 +1,15 @@
+
+;WAP to add 02H and 03H
+
+jmp start
+
+;data
+
+
+;code
+start: nop
+
+MVI A, 03H
+ADI 02H
+
+hlt

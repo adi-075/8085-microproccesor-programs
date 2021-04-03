@@ -1,0 +1,15 @@
+*Note that there can be changes in certain programs which are not reflected here.
+1)To add two memory Blocks(8 bits each) and store two byte result
+2)WAP to find absolute difference of two numbers, stored in memory location 5000H and 50001H. Store the result in 5002H.
+3)To count even and odd numbers
+**Thumb rule--For accessing more than two memory locations use Memory pointer
+
+4)Write a program in which a block of data is stored in memory location 2000H. The length of the block is stored in location
+1FFFH. Write ALP program that searches for the first appearance of data D9H in given block. Store the address of this occurence
+in H-L Pair and if the number is not found then H-L pair should contain 5000H.
+
+5)Write a program to search for first occurence of data 87H in a given block of 20 Memory Locations. Store the address of this occurence
+in D-E Pair.
+
+6)Write a ALP to count how many number of times a particular data has got repeated in a memory block. Store the count in Memory Location
+in 2100H.
